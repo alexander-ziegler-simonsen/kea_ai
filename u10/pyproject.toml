@@ -1,0 +1,18 @@
+[project]
+name = "u10"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "icecream>=2.1.4",
+    "jupyter>=1.1.1",
+    "levenshtein==0.25.1",
+    "matplotlib>=3.10.1",
+    "notebook>=7.4.0",
+    "numpy>=2.2.5",
+    "pandas>=2.2.3",
+    "pygame>=2.6.1",
+    "python-levenshtein==0.25.1",
+    "rapidfuzz==3.8.1",
+]
