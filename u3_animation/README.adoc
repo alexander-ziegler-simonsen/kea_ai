@@ -1,0 +1,10 @@
+= Gradient Descent Animated
+:author: Henrik Strøm
+:email: hstr@kea.dk
+
+
+Small animation of gradient descent optimization of a simple straight line model on a very small dataset.
+
+Naive implementation of gradient descent.
+
+Requires `ffmpeg` to be installed.
